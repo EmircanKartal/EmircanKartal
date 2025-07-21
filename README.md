@@ -136,18 +136,25 @@ I specialize in full-stack development using **React**, **React Native with Expo
 
 ## 🤝 Let's Connect & Collaborate
 
-![](https://hit.yhype.me/github/profile?account_id=36276973)
+- 📫 **How to reach me:** <a href="mailto:emircankartal1@gmail.com">emircankartal1@gmail.com</a>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/emircankartal" title="LinkedIn">
-    <img src="./assets/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://emircankartal.com" title="Personal Website">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/emircankartal" target="_blank" title="LinkedIn">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://medium.com/@emircank" target="_blank" title="Medium">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/emircankartal1" target="_blank" title="HackerRank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://emircankartal.com" target="_blank" title="Personal Website">
     <!-- white / inverted icon for dark background -->
     <img src="./assets/icons/web-svgrepo-com.svg" alt="Website" width="40" height="40" style="filter:brightness(0) invert(1);"/>
-  </a>&nbsp;&nbsp;
-  <a href="mailto:emircankartal1@gmail.com" title="Email">
-    <img src="./assets/icons/gmail-icon.svg" alt="Email" width="40" height="40"/>
   </a>
 </p>
 
