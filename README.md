@@ -154,7 +154,7 @@ I specialize in full-stack development using **React**, **React Native with Expo
   &nbsp;&nbsp;
   <a href="https://emircankartal.com" target="_blank" title="Personal Website">
     <!-- white / inverted icon for dark background -->
-    <img src="./assets/icons/web-svgrepo-com.svg" alt="Website" width="40" height="40" style="filter:brightness(0) invert(1);"/>
+    <img src="./assets/icons/website.svg" alt="Website" width="40" height="40" style="filter:brightness(0) invert(1);"/>
   </a>
 </p>
 
