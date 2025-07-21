@@ -91,10 +91,9 @@ I specialize in full-stack development using **React**, **React Native with Expo
     </td>
   </tr>
   
-  <!-- MarmaraKaf App & Component Detection side‑by‑side -->
+  <!-- MarmaraKaf Mobile -->
   <tr>
-    <!-- MarmaraKaf Mobile App -->
-    <td align="left" width="50%">
+    <td colspan="2" align="left">
       <h3><img src="https://img.shields.io/badge/-EVENT%20APP-8E44AD?style=flat-square"/> MarmaraKaf Mobile</h3>
       <p><strong>Lead Front‑End Developer · React Native | Expo | Redux | Zustand</strong></p>
       <p>Official companion for <em>Marmara Career Fair 2025</em> — used by <strong>50 000+</strong> attendees. Provided booth maps, schedules & live heat‑map analytics; enabled QR‑based entry validation and résumé transfers to companies.</p>
@@ -102,14 +101,16 @@ I specialize in full-stack development using **React**, **React Native with Expo
       <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
       <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=Zustand&logoColor=white"/>
     </td>
-    
-    <!-- Component Detection Project -->
-    <td align="left" width="50%">
+  </tr>
+
+  <!-- Component Detection Project -->
+  <tr>
+    <td colspan="2" align="left">
       <h3><img src="https://img.shields.io/badge/-RESEARCH-FF5733?style=flat-square"/> UI Component Detection with Faster R‑CNN</h3>
       <p><strong>Research Engineer · PyTorch | Faster R‑CNN | ResNet50</strong></p>
-      <p>Part of an 8‑person TÜBİTAK‑funded project (FMSS IT) exploring <em>component detection in mobile UI screens</em>. Implemented the ResNet‑backbone Faster R‑CNN pipeline; compared against DenseNet, EfficientNet & VGG; integrated YOLO fusion for improved mAP.</p>
+      <p>Part of an 8‑person TÜBİTAK‑funded project (FMSS IT) exploring <em>component detection in mobile UI screens</em>. Implemented the ResNet‑backbone Faster R‑CNN pipeline; compared against DenseNet, EfficientNet & VGG; integrated YOLO fusion for improved mAP.</p>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Faster%20R‑CNN-4169E1?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Faster%20R--CNN-4169E1?style=for-the-badge"/>
       <img src="https://img.shields.io/badge/ResNet50-6E40C9?style=for-the-badge"/>
     </td>
   </tr>
