@@ -144,7 +144,7 @@ I specialize in full-stack development using **React**, **React Native with Expo
   </a>&nbsp;&nbsp;
   <a href="https://emircankartal.com" title="Personal Website">
     <!-- white / inverted icon for dark background -->
-    <img src="./assets/icons/web-svgrepo-com.svg" alt="Website" width="40" height="40" style="filter:brightness(0) invert(1);"/>
+    <img src="./assets/icons/website.svg" alt="Website" width="40" height="40" style="filter:brightness(0) invert(1);"/>
   </a>&nbsp;&nbsp;
   <a href="mailto:emircankartal1@gmail.com" title="Email">
     <img src="./assets/icons/gmail-icon.svg" alt="Email" width="40" height="40"/>
