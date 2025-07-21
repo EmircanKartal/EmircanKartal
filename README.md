@@ -1,24 +1,114 @@
-<h1 align="center">Hi 👋, I'm Emircan</h1>
-<h3 align="center">I'm a Computer Science student from Turkey</h3>
-<img align="right" alt=""Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emircankartal&label=Profile%20views&color=00aaff&style=flat" alt="emircankartal" /> </p>
+<!-- Emircan Kartal GitHub Profile README -->
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 📫 How to reach me **emircankartal1@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/emircankartal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emircankartal" height="30" width="40" /></a>
-<a href="https://medium.com/@emircank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@emircank" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/emircankartal1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="emircankartal1" height="30" width="40" /></a>
+<h1 align="center">Hi, I'm Emircan Kartal 👋</h1>
+<p align="center">
+  <em>Turning code into products that impact people.</em>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emircankartal&show_icons=true&theme=highcontrast&bg_color=000000&locale=en&layout=compact" alt="emircankartal" /></p>
+## 🎓 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emircankartal&show_icons=true&theme=highcontrast&bg_color=050505&locale=en" alt="emircankartal" /></p>
+I'm **Emircan Kartal**, graduating in 2026 with a Bachelor's in Computer Engineering from Kocaeli University. I'm the co-founder of Fidelio, where I help transform concepts into production-grade AI, web, and mobile apps. I'm passionate about building products that solve real-world problems and have been involved in impactful university projects through the Embedded Systems Laboratory.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emircankartal&theme=highcontrast" alt="emircankartal" /></p>
+---
+
+## 🧠 Tech Arsenal
+
+<table>
+  <tr>
+    <td><strong>Languages</strong><br>
+      <img src="./assets/icons/python.svg" width="32" />
+      <img src="./assets/icons/javascript.svg" width="32" />
+      <img src="./assets/icons/typescript.svg" width="32" />
+    </td>
+    <td><strong>Frontend</strong><br>
+      <img src="./assets/icons/react.svg" width="32" />
+      <img src="./assets/icons/html.svg" width="32" />
+      <img src="./assets/icons/css.svg" width="32" />
+    </td>
+    <td><strong>Backend</strong><br>
+      <img src="./assets/icons/fastapi.svg" width="32" />
+      <img src="./assets/icons/python.svg" width="32" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>ML / AI</strong><br>
+      <img src="./assets/icons/pytorch-icon.svg" width="32" />
+    </td>
+    <td><strong>DevOps & Tools</strong><br>
+      <img src="./assets/icons/docker.svg" width="32" />
+      <img src="./assets/icons/github.svg" width="32" />
+    </td>
+    <td><strong>Databases</strong><br>
+      <img src="./assets/icons/postgresql.svg" width="32" />
+      <img src="./assets/icons/mongodb.svg" width="32" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Digital Creations
+
+<table>
+  <tr>
+    <td align="left" colspan="2">
+      <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="70%">
+      <h2>DIGITAL CREATIONS</h2>
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <h3><img src="https://img.shields.io/badge/-NEURAL%20NETWORK-313131?style=flat-square"/> FROM SCRATCH</h3>
+      <p>Designed a flexible Neural Network using only Python and NumPy, implementing forward and backward propagation with Nesterov momentum optimization. Added L1/L2 regularization and grid search for hyperparameter tuning.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+    </td>
+    <td align="left">
+      <h3><img src="https://img.shields.io/badge/-PROBLOG%20BASED-313131?style=flat-square"/> AI AGENT</h3>
+      <p>Developed an AI agent using ProbLog for a 2D fighting game that adapts to opponents through dynamic probability estimation.</p>
+      <img src="https://img.shields.io/badge/ProbLog-AA0000?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Probabilistic_Programming-8A2BE2?style=for-the-badge" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <h3><img src="https://img.shields.io/badge/-TELEGRAM%20BOT-313131?style=flat-square"/> WITH GITHUB INTEGRATION</h3>
+      <p>Created a Telegram bot that integrates with GitHub webhooks to provide repository event notifications and respond to user commands.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub_API-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </td>
+    <td align="left">
+      <h3><img src="https://img.shields.io/badge/-PERSONAL%20WEB-313131?style=flat-square"/> APPLICATION</h3>
+      <p>Developed a personal website using Svelte and Django with PostgreSQL. Deployed on AWS using Nginx and Apache.</p>
+      <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+![](https://hit.yhype.me/github/profile?account_id=36276973)
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/emircankartal">
+    <img src="./assets/icons/linkedin.svg" alt="LinkedIn" width="30" height="30">
+  </a>&nbsp;&nbsp;
+  <a href="https://emircankartal.com">
+    <img src="./assets/icons/web-svgrepo-com.svg" alt="Website" width="30" height="30">
+  </a>&nbsp;&nbsp;
+  <a href="mailto:emircankartal1@gmail.com">
+    <img src="./assets/icons/outlook.svg" alt="Email" width="30" height="30">
+  </a>
+</div>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=EmircanKartal&color=6366F1&style=for-the-badge&label=PROFILE+VISITORS" alt="Profile visitors" />
