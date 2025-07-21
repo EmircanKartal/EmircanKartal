@@ -9,40 +9,50 @@
 
 ## 🎓 About Me
 
-I'm **Emircan Kartal**, graduating in 2026 with a Bachelor's in Computer Engineering from Kocaeli University. I'm the co-founder of Fidelio, where I help transform concepts into production-grade AI, web, and mobile apps. I'm passionate about building products that solve real-world problems and have been involved in impactful university projects through the Embedded Systems Laboratory.
+I'm **Emircan Kartal**, a Junior Computer Engineering student at Kocaeli University who cofounded **Fidelio**, turning ideas into production-grade web, mobile and AI solutions for clients and our own products. In parallel, I have spent more than a year as a software developer at the university **Embedded Systems Laboratory**, contributing to several high-impact projects.
+
+I’m skilled in **React**, **React Native with Expo**, **TypeScript**, **Next.js**, **Vite**, **TailwindCSS**, **FastAPI**, **Python** and **PyTorch**. I’m currently exploring machine learning and artificial intelligence, and I’m drawn to building products that have real impact and practical value for people.
 
 ---
 
 ## 🧠 Tech Arsenal
 
-<table>
+<table width="100%">
   <tr>
     <td><strong>Languages</strong><br>
-      <img src="./assets/icons/python.svg" width="32" />
-      <img src="./assets/icons/javascript.svg" width="32" />
-      <img src="./assets/icons/typescript.svg" width="32" />
+      <a href="https://www.python.org" title="Python"><img src="./assets/icons/python.svg" width="36" alt="Python"/></a>
+      <a href="https://www.cprogramming.com/" title="C"><img src="./assets/icons/icons8-c.svg" width="36" alt="C"/></a>
+      <a href="https://isocpp.org/" title="C++"><img src="./assets/icons/c-plusplus.svg" width="36" alt="C++"/></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="./assets/icons/javascript.svg" width="36" alt="JavaScript"/></a>
+      <a href="https://www.typescriptlang.org" title="TypeScript"><img src="./assets/icons/typescript.svg" width="36" alt="TypeScript"/></a>
+      <a href="https://www.java.com" title="Java"><img src="./assets/icons/java.svg" width="36" alt="Java"/></a>
     </td>
     <td><strong>Frontend</strong><br>
-      <img src="./assets/icons/react.svg" width="32" />
-      <img src="./assets/icons/html.svg" width="32" />
-      <img src="./assets/icons/css.svg" width="32" />
-    </td>
-    <td><strong>Backend</strong><br>
-      <img src="./assets/icons/fastapi.svg" width="32" />
-      <img src="./assets/icons/python.svg" width="32" />
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML"><img src="./assets/icons/icons8-html.svg" width="36" alt="HTML"/></a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img src="./assets/icons/icons8-css.svg" width="36" alt="CSS"/></a>
+      <a href="https://react.dev" title="React"><img src="./assets/icons/react.svg" width="36" alt="React"/></a>
+      <a href="https://nextjs.org" title="Next.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" alt="Next.js"/></a>
+      <a href="https://vitejs.dev" title="Vite"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="36" alt="Vite"/></a>
+      <a href="https://tailwindcss.com" title="Tailwind CSS"><img src="./assets/icons/icons8-tailwind-css.svg" width="36" alt="Tailwind CSS"/></a>
     </td>
   </tr>
   <tr>
+    <td><strong>Backend</strong><br>
+      <a href="https://fastapi.tiangolo.com" title="FastAPI"><img src="./assets/icons/fastapi.svg" width="36" alt="FastAPI"/></a>
+      <a href="https://www.djangoproject.com" title="Django"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="36" alt="Django"/></a>
+    </td>
     <td><strong>ML / AI</strong><br>
-      <img src="./assets/icons/pytorch-icon.svg" width="32" />
+      <a href="https://pytorch.org" title="PyTorch"><img src="./assets/icons/pytorch-icon.svg" width="36" alt="PyTorch"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Databases</strong><br>
+      <a href="https://www.postgresql.org" title="PostgreSQL"><img src="./assets/icons/postgresql.svg" width="36" alt="PostgreSQL"/></a>
+      <a href="https://www.mongodb.com" title="MongoDB"><img src="./assets/icons/mongodb.svg" width="36" alt="MongoDB"/></a>
     </td>
     <td><strong>DevOps & Tools</strong><br>
-      <img src="./assets/icons/docker.svg" width="32" />
-      <img src="./assets/icons/github.svg" width="32" />
-    </td>
-    <td><strong>Databases</strong><br>
-      <img src="./assets/icons/postgresql.svg" width="32" />
-      <img src="./assets/icons/mongodb.svg" width="32" />
+      <a href="https://www.docker.com" title="Docker"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" alt="Docker"/></a>
+      <a href="https://github.com" title="GitHub"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36" alt="GitHub"/></a>
     </td>
   </tr>
 </table>
