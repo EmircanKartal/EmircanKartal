@@ -58,7 +58,7 @@ I specialize in full-stack development using **React**, **React Native with Expo
     </td>
     <td><strong>DevOps & Tools</strong><br>
       <a href="https://www.docker.com" title="Docker"><img src="./assets/icons/docker.svg" width="42" alt="Docker"/></a>
-      <a href="https://www.figma.com" title="Figma"><img src="./assets/icons/figma-icon.svg" width="35" alt="Figma"/></a>
+      <a href="https://www.figma.com" title="Figma"><img src="./assets/icons/figma-icon.svg" width="30" alt="Figma"/></a>
       <a href="https://git-scm.com" title="Git"><img src="./assets/icons/git.svg" width="42" alt="Figma"/></a>
       <a href="https://github.com" title="GitHub"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" alt="GitHub"/></a>
     </td>
@@ -138,17 +138,19 @@ I specialize in full-stack development using **React**, **React Native with Expo
 
 ![](https://hit.yhype.me/github/profile?account_id=36276973)
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/emircankartal">
-    <img src="./assets/icons/linkedin.svg" alt="LinkedIn" width="30" height="30">
+<p align="center">
+  <a href="https://www.linkedin.com/in/emircankartal" title="LinkedIn">
+    <img src="./assets/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
   </a>&nbsp;&nbsp;
-  <a href="https://emircankartal.com">
-    <img src="./assets/icons/web-svgrepo-com.svg" alt="Website" width="30" height="30">
+  <a href="https://emircankartal.com" title="Personal Website">
+    <!-- white / inverted icon for dark background -->
+    <img src="./assets/icons/web-svgrepo-com.svg" alt="Website" width="40" height="40" style="filter:brightness(0) invert(1);"/>
   </a>&nbsp;&nbsp;
-  <a href="mailto:emircankartal1@gmail.com">
-    <img src="./assets/icons/gmail-icon.svg" alt="Email" width="30" height="30">
+  <a href="mailto:emircankartal1@gmail.com" title="Email">
+    <img src="./assets/icons/gmail-icon.svg" alt="Email" width="40" height="40"/>
   </a>
-</div>
+</p>
+
 
 <br>
 
