@@ -43,18 +43,23 @@ I specialize in full-stack development using **React**, **React Native with Expo
     <td><strong>Backend</strong><br>
       <a href="https://fastapi.tiangolo.com" title="FastAPI"><img src="./assets/icons/fastapi.svg" width="42" alt="FastAPI"/></a>
       <a href="https://www.djangoproject.com" title="Django"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="42" alt="Django"/></a>
+      <a href="https://nodejs.org" title="Node.js"><img src="./assets/icons/nodejs-icon.svg" width="42" alt="Node.js"/></a>
     </td>
     <td><strong>ML / AI</strong><br>
       <a href="https://pytorch.org" title="PyTorch"><img src="./assets/icons/pytorch-icon.svg" width="42" alt="PyTorch"/></a>
+      <a href="https://numpy.org" title="NumPy"><img src="./assets/icons/numpy.svg" width="42" alt="NumPy"/></a>
     </td>
   </tr>
   <tr>
     <td><strong>Databases</strong><br>
-      <a href="https://www.postgresql.org" title="PostgreSQL"><img src="./assets/icons/postgresql.svg" width="42" alt="PostgreSQL"/></a>
+      <a href="https://www.mysql.com" title="MySQL"><img src="./assets/icons/mysql.svg" width="42" alt="MySQL"/></a>
       <a href="https://www.mongodb.com" title="MongoDB"><img src="./assets/icons/mongodb.svg" width="42" alt="MongoDB"/></a>
+      <a href="https://www.sanity.io" title="Sanity CMS"><img src="./assets/icons/sanity.svg" width="42" alt="Sanity"/></a>
     </td>
     <td><strong>DevOps & Tools</strong><br>
-      <a href="https://www.docker.com" title="Docker"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" alt="Docker"/></a>
+      <a href="https://www.docker.com" title="Docker"><img src="./assets/icons/docker.svg" width="42" alt="Docker"/></a>
+      <a href="https://www.figma.com" title="Figma"><img src="./assets/icons/figma-icon.svg" width="42" alt="Figma"/></a>
+      <a href="https://git-scm.com" title="Git"><img src="./assets/icons/git.svg" width="42" alt="Figma"/></a>
       <a href="https://github.com" title="GitHub"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" alt="GitHub"/></a>
     </td>
   </tr>
@@ -62,7 +67,6 @@ I specialize in full-stack development using **React**, **React Native with Expo
 
 ---
 
-## 🛠️ Digital Creations
 
 <table>
   <tr>
@@ -99,6 +103,7 @@ I specialize in full-stack development using **React**, **React Native with Expo
       <p>Official companion for <em>Marmara Career Fair 2025</em> — used by <strong>50 000+</strong> attendees. Provided booth maps, schedules & live heat‑map analytics; enabled QR‑based entry validation and résumé transfers to companies.</p>
       <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
       <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
       <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=Zustand&logoColor=white"/>
     </td>
   </tr>
@@ -107,8 +112,8 @@ I specialize in full-stack development using **React**, **React Native with Expo
   <tr>
     <td colspan="2" align="left">
       <h3><img src="https://img.shields.io/badge/-RESEARCH-FF5733?style=flat-square"/> UI Component Detection with Faster R‑CNN</h3>
-      <p><strong>Research Engineer · PyTorch | Faster R‑CNN | ResNet50</strong></p>
-      <p>Part of an 8‑person TÜBİTAK‑funded project (FMSS IT) exploring <em>component detection in mobile UI screens</em>. Implemented the ResNet‑backbone Faster R‑CNN pipeline; compared against DenseNet, EfficientNet & VGG; integrated YOLO fusion for improved mAP.</p>
+      <p><strong>AI Research Engineer · PyTorch | Faster R‑CNN | ResNet50</strong></p>
+      <p>Part of an 8‑person TÜBİTAK‑funded project (FMSS IT) exploring <em>component detection in mobile UI screens</em>. Implemented the ResNet‑backbone Faster R‑CNN pipeline; compared against DenseNet, EfficientNet & VGG; integrated YOLO fusion for improved mAP. Trained every model with carefully tuned hyper‑parameters to reach state‑of‑the‑art mAP on the RICO dataset.</p>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
       <img src="https://img.shields.io/badge/Faster%20R--CNN-4169E1?style=for-the-badge"/>
       <img src="https://img.shields.io/badge/ResNet50-6E40C9?style=for-the-badge"/>
