@@ -130,7 +130,7 @@ I specialize in full-stack development using **React**, **React Native with Expo
     <img src="./assets/icons/web-svgrepo-com.svg" alt="Website" width="30" height="30">
   </a>&nbsp;&nbsp;
   <a href="mailto:emircankartal1@gmail.com">
-    <img src="./assets/icons/outlook.svg" alt="Email" width="30" height="30">
+    <img src="./assets/icons/gmail-icon.svg" alt="Email" width="30" height="30">
   </a>
 </div>
 
