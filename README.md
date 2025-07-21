@@ -54,11 +54,11 @@ I specialize in full-stack development using **React**, **React Native with Expo
     <td><strong>Databases</strong><br>
       <a href="https://www.mysql.com" title="MySQL"><img src="./assets/icons/mysql.svg" width="42" alt="MySQL"/></a>
       <a href="https://www.mongodb.com" title="MongoDB"><img src="./assets/icons/mongodb.svg" width="42" alt="MongoDB"/></a>
-      <a href="https://www.sanity.io" title="Sanity CMS"><img src="./assets/icons/sanity.svg" width="42" alt="Sanity"/></a>
+      <a href="https://www.sanity.io" title="Sanity CMS"><img src="./assets/icons/sanity.svg" width="56" alt="Sanity"/></a>
     </td>
     <td><strong>DevOps & Tools</strong><br>
       <a href="https://www.docker.com" title="Docker"><img src="./assets/icons/docker.svg" width="42" alt="Docker"/></a>
-      <a href="https://www.figma.com" title="Figma"><img src="./assets/icons/figma-icon.svg" width="42" alt="Figma"/></a>
+      <a href="https://www.figma.com" title="Figma"><img src="./assets/icons/figma-icon.svg" width="35" alt="Figma"/></a>
       <a href="https://git-scm.com" title="Git"><img src="./assets/icons/git.svg" width="42" alt="Figma"/></a>
       <a href="https://github.com" title="GitHub"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" alt="GitHub"/></a>
     </td>
@@ -120,6 +120,17 @@ I specialize in full-stack development using **React**, **React Native with Expo
     </td>
   </tr>
 </table>
+
+---
+
+## 📊 Performance Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EmircanKartal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmircanKartal&layout=compact&langs_count=8&theme=tokyonight" height="180em"/>
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EmircanKartal&theme=react-dark&hide_border=true" width="100%"/>
+</div>
 
 ---
 
