@@ -9,61 +9,27 @@
 
 ## 🎓 About Me
 
-I'm **Emircan Kartal**, a Senior Computer Engineering student at Kocaeli University. I’m the cofounder of **Fidelio**, where we transform ideas into production-ready web, mobile, and AI-powered products — both for clients and our own ventures.
+I'm Emircan Kartal, a senior Computer Engineering student at Kocaeli University, and a software developer focused on building products that I love.
 
-Beyond Fidelio, I’ve been part of the **Embedded Systems Laboratory** at Kocaeli University for over a year, where I’ve worked on impactful university projects, gaining real-world experience in academic software development.
+I co-founded Fidelio, where we develop SaaS and AI-driven applications and solutions for both our clients and our own products.
 
-I specialize in full-stack development using **React**, **React Native with Expo**, **TypeScript**, **Next.js**, **FastAPI**, and **Python**. My academic and personal interests currently revolve around **AI/ML**, where I experiment with tools like **PyTorch**, building models with real-world applications. I thrive on bridging ideas with execution, with a passion for delivering solutions that people actually use.
-
+At the same time, I work at the Embedded Systems Laboratory, contributing to institutional mobile applications and taking part in AI research projects prepared for academic publication.
 
 ---
 
-## 🧠 Tech Arsenal
+## 🌐 Explore More
 
-<table width="100%">
-  <tr>
-    <td><strong>Languages</strong><br>
-      <a href="https://www.python.org" title="Python"><img src="./assets/icons/python.svg" width="42" alt="Python"/></a>
-      <a href="https://www.cprogramming.com/" title="C"><img src="./assets/icons/icons8-c.svg" width="42" alt="C"/></a>
-      <a href="https://isocpp.org/" title="C++"><img src="./assets/icons/c-plusplus.svg" width="42" alt="C++"/></a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="./assets/icons/javascript.svg" width="42" alt="JavaScript"/></a>
-      <a href="https://www.typescriptlang.org" title="TypeScript"><img src="./assets/icons/typescript.svg" width="42" alt="TypeScript"/></a>
-      <a href="https://www.java.com" title="Java"><img src="./assets/icons/java.svg" width="42" alt="Java"/></a>
-    </td>
-    <td><strong>Frontend</strong><br>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML"><img src="./assets/icons/icons8-html.svg" width="42" alt="HTML"/></a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img src="./assets/icons/icons8-css.svg" width="42" alt="CSS"/></a>
-      <a href="https://react.dev" title="React"><img src="./assets/icons/react.svg" width="42" alt="React"/></a>
-      <a href="https://nextjs.org" title="Next.js"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42" alt="Next.js"/></a>
-      <a href="https://vitejs.dev" title="Vite"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="42" alt="Vite"/></a>
-      <a href="https://tailwindcss.com" title="Tailwind CSS"><img src="./assets/icons/icons8-tailwind-css.svg" width="42" alt="Tailwind CSS"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Backend</strong><br>
-      <a href="https://fastapi.tiangolo.com" title="FastAPI"><img src="./assets/icons/fastapi.svg" width="42" alt="FastAPI"/></a>
-      <a href="https://www.djangoproject.com" title="Django"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="42" alt="Django"/></a>
-      <a href="https://nodejs.org" title="Node.js"><img src="./assets/icons/nodejs-icon.svg" width="42" alt="Node.js"/></a>
-    </td>
-    <td><strong>ML / AI</strong><br>
-      <a href="https://pytorch.org" title="PyTorch"><img src="./assets/icons/pytorch-icon.svg" width="42" alt="PyTorch"/></a>
-      <a href="https://numpy.org" title="NumPy"><img src="./assets/icons/numpy.svg" width="42" alt="NumPy"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Databases</strong><br>
-      <a href="https://www.mysql.com" title="MySQL"><img src="./assets/icons/mysql.svg" width="42" alt="MySQL"/></a>
-      <a href="https://www.mongodb.com" title="MongoDB"><img src="./assets/icons/mongodb.svg" width="42" alt="MongoDB"/></a>
-      <a href="https://www.sanity.io" title="Sanity CMS"><img src="./assets/icons/sanity.svg" width="56" alt="Sanity"/></a>
-    </td>
-    <td><strong>DevOps & Tools</strong><br>
-      <a href="https://www.docker.com" title="Docker"><img src="./assets/icons/docker.svg" width="42" alt="Docker"/></a>
-      <a href="https://www.figma.com" title="Figma"><img src="./assets/icons/figma-icon.svg" width="30" alt="Figma"/></a>
-      <a href="https://git-scm.com" title="Git"><img src="./assets/icons/git.svg" width="42" alt="Figma"/></a>
-      <a href="https://github.com" title="GitHub"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" alt="GitHub"/></a>
-    </td>
-  </tr>
-</table>
+For a more complete view of my work, including projects, hackathons, writing, and ongoing experiments, visit my portfolio:
+
+<p align="center">
+  <a href="https://emircankartal.com" target="_blank">
+    <img src="https://img.shields.io/badge/Visit-emircankartal.com-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit emircankartal.com"/>
+  </a>
+</p>
+
+<p align="center">
+  <em>Projects, detailed case studies, blog posts, and more.</em>
+</p>
 
 ---
 
@@ -72,7 +38,7 @@ I specialize in full-stack development using **React**, **React Native with Expo
   <tr>
     <td colspan="2" align="left">
       <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="70%"/>
-      <h2>DIGITAL CREATIONS</h2>
+      <h2>SELECTED WORK</h2>
     </td>
   </tr>
   
@@ -126,8 +92,7 @@ I specialize in full-stack development using **React**, **React Native with Expo
 ## 📊 Performance Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EmircanKartal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmircanKartal&layout=compact&langs_count=8&theme=tokyonight" height="180em"/>
+ <img src="https://streak-stats.demolab.com?user=EmircanKartal&theme=tokyonight&hide_border=true" height="180em"/>
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=EmircanKartal&theme=react-dark&hide_border=true" width="100%"/>
 </div>
