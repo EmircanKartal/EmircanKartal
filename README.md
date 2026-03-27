@@ -1,9 +1,6 @@
 <!-- Emircan Kartal GitHub Profile README -->
 
 <h1 align="center">Hi, I'm Emircan Kartal 👋</h1>
-<p align="center">
-  <em>Turning code into products that impact people.</em>
-</p>
 
 ---
 
