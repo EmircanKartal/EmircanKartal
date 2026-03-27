@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Emircan Kartal 👋</h1>
 
-## 🎓 About Me
+## About Me
 
 I'm Emircan Kartal, a senior Computer Engineering student at Kocaeli University, and a software developer focused on building products that I love.
 
@@ -12,7 +12,7 @@ At the same time, I work at the Embedded Systems Laboratory, contributing to ins
 
 ---
 
-## 🌐 Explore More
+## Explore More
 
 For a more complete view of my work, including projects, hackathons, writing, and ongoing experiments, visit my portfolio:
 
@@ -107,7 +107,7 @@ For a more complete view of my work, including projects, hackathons, writing, an
 
 ---
 
-## 📊 Performance Analytics
+## Performance Analytics
 
 <div align="center">
  <img src="https://streak-stats.demolab.com?user=EmircanKartal&theme=tokyonight&hide_border=true" height="180em"/>
@@ -119,7 +119,7 @@ For a more complete view of my work, including projects, hackathons, writing, an
 
 ## 🤝 Let's Connect & Collaborate
 
-- 📫 **How to reach me:** <a href="mailto:emircankartal1@gmail.com">emircankartal1@gmail.com</a>
+- **How to reach me:** <a href="mailto:emircankartal1@gmail.com">emircankartal1@gmail.com</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
