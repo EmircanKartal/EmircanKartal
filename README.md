@@ -2,8 +2,6 @@
 
 <h1 align="center">Hi, I'm Emircan Kartal 👋</h1>
 
----
-
 ## 🎓 About Me
 
 I'm Emircan Kartal, a senior Computer Engineering student at Kocaeli University, and a software developer focused on building products that I love.
