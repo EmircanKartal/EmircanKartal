@@ -2,17 +2,11 @@
 
 <h1 align="center">Hi, I'm Emircan Kartal 👋</h1>
 
-## About Me
-
 I'm Emircan Kartal, a senior Computer Engineering student at Kocaeli University, and a software developer focused on building products that I love.
 
 I co-founded Fidelio, where we develop SaaS and AI-driven applications and solutions for both our clients and our own products.
 
 At the same time, I work at the Embedded Systems Laboratory, contributing to institutional mobile applications and taking part in AI research projects prepared for academic publication.
-
----
-
-## Explore More
 
 For a more complete view of my work, including projects, hackathons, writing, and ongoing experiments, visit my portfolio:
 
@@ -25,9 +19,6 @@ For a more complete view of my work, including projects, hackathons, writing, an
 <p align="center">
   <em>Projects, detailed case studies, blog posts, and more.</em>
 </p>
-
----
-
 
 <table>
   <tr>
