@@ -42,6 +42,29 @@ For a more complete view of my work, including projects, hackathons, writing, an
     </td>
   </tr>
   
+ <!-- Pretix Plugin -->
+<tr>
+  <td colspan="2" align="left">
+    <strong>
+      <img src="https://img.shields.io/badge/-PAYMENT%20INTEGRATION-3B82F6?style=flat-square" alt="Payment Integration" />
+      <a href="https://github.com/EmircanKartal/pretix-iyzico">Pretix Iyzico Plugin</a>
+    </strong>
+    <br><br>
+    <strong>Payments · Backend Integration · Open Source</strong>
+    <br><br>
+    Developed and open-sourced an iyzico payment provider plugin for <em>pretix</em>, enabling local payment processing for event platforms in Türkiye where providers like Stripe and PayPal are not available. Built for a real production use case and later published on the Pretix Marketplace as a third-party contribution.
+    <br><br>
+    <a href="https://github.com/EmircanKartal/pretix-iyzico"><strong>GitHub ↗</strong></a>
+    &nbsp;•&nbsp;
+    <a href="https://www.linkedin.com/posts/activity-7412054915688120320-9IHv/"><strong>LinkedIn Story ↗</strong></a>
+    <br><br>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/pretix-7C3AED?style=for-the-badge" alt="pretix" />
+    <img src="https://img.shields.io/badge/iyzico-14B8A6?style=for-the-badge" alt="iyzico" />
+    <img src="https://img.shields.io/badge/Open%20Source-F59E0B?style=for-the-badge" alt="Open Source" />
+  </td>
+</tr>
+
   <!-- KOU Mobile -->
   <tr>
     <td colspan="2" align="left">
