@@ -55,7 +55,7 @@ For a more complete view of my work, including projects, hackathons, writing, an
   <tr>
     <td colspan="2" align="left">
       <h3><img src="https://img.shields.io/badge/-MOBILE%20APP-0A89FF?style=flat-square"/> KOU Mobile</h3>
-      <p><strong>Lead Front‑End Developer · React Native | TypeScript | Expo | NativeWind CSS</strong></p>
+      <p><strong>Lead Developer · React Native | TypeScript | Expo | NativeWind CSS</strong></p>
       <p>KOU Mobile streamlines student life at Kocaeli University by providing <em>real‑time grades, schedules, announcements and event info</em> in one sleek app. Built with React Native + Tailwind, it now serves <strong>40 000+</strong> students daily.</p>
       <ul>
         <li>Instant grade & exam look‑up</li>
@@ -74,7 +74,7 @@ For a more complete view of my work, including projects, hackathons, writing, an
   <tr>
     <td colspan="2" align="left">
       <h3><img src="https://img.shields.io/badge/-EVENT%20APP-8E44AD?style=flat-square"/> MarmaraKaf Mobile</h3>
-      <p><strong>Lead Front‑End Developer · React Native | Expo | Redux | Zustand</strong></p>
+      <p><strong>Lead Developer · React Native | Expo | Redux | Zustand</strong></p>
       <p>Official companion for <em>Marmara Career Fair 2025</em> — used by <strong>50 000+</strong> attendees. Provided booth maps, schedules & live heat‑map analytics; enabled QR‑based entry validation and résumé transfers to companies.</p>
       <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
       <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
