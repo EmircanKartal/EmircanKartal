@@ -4,7 +4,7 @@
 
 Computer Engineering graduate @ Kocaeli University. Co-founder @ Fidelio.
 
-I genuinely enjoy building things from the ground up. For as long as I can remember, I've wanted to create the things I wished existed.
+I genuinely enjoy building things from the ground up. For as long as I can remember, I've wanted to create the things I always wished existed.
 
 For a more complete look at what I've been working on, please visit my portfolio.
 
